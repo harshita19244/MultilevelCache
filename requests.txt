@@ -1,0 +1,14 @@
+wb R 121 
+wt R 62
+wt W 41
+wt R 121
+wt R 17
+wt R 9
+wt R 91
+wt R 41
+wt R 67
+wt W 76
+wb W 41
+wt R 101
+wb R 121
+wb R 121
